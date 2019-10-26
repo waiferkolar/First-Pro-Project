@@ -1,0 +1,12 @@
+Checking git exist 
+	=> git --version
+
+=> git status (command)
+	fatal: not a git repository (or any of the parent directories): .git
+
+=> make git project
+	=> git init (command) 
+
+=> git add . (command)
+
+=> git commit -m "Today Starup Project"
