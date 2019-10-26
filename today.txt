@@ -1,12 +1,25 @@
-Checking git exist 
+Checking git exist
 	=> git --version
 
 => git status (command)
 	fatal: not a git repository (or any of the parent directories): .git
 
 => make git project
-	=> git init (command) 
+	=> git init (command)
 
 => git add . (command)
 
 => git commit -m "Today Starup Project"
+
+=> Link offline git and online git
+	git remote add origin https://github.com/waiferkolar/First-Pro-Project.git
+
+=> Check Remote
+	git remote (command)
+	git remote -v (command)
+
+=> git push -u origin master (First time)
+
+=> git push
+
+=> git clone link
